@@ -572,3 +572,7 @@ div#maincontent {
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
     margin: 0;
 }
+
+.benefit-text {
+    color: #174842;
+}
